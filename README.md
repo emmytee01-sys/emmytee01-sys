@@ -20,14 +20,19 @@ Blockchain (Sui Move · Smart Contracts) · AI APIs · NLP · OpenAI
 📌 Notable Projects
 💰 AJOO.me — Group Contributions & Fintech Platform
 A community-based contribution (ajo/esusu) platform with automated fund rotation, wallet management, and scheduled disbursements. Built with secure REST APIs, JWT auth, and role-based access control.
+
 👥 Workrate — Workforce Management Platform
 A role-based platform for managing projects, tasks, approvals, tickets, and team rewards. Features real-time notifications via Firebase and WhatsApp, with fine-grained access control and optimized data models.
+
 📣 WakeMe API — Multi-Channel Notifications Platform
 A production-grade notifications API enabling businesses to reach users across WhatsApp, Instagram DMs, Facebook Messenger, and Email — with API key lifecycle management, rate limiting, and delivery analytics.
+
 ⛪ ChurchConnect — AI-Powered Church Management System
 A mobile + Telegram-integrated system for attendance tracking, Bible study, and prayer requests. Uses NLP to analyze prayer sentiment and deliver personalized devotional content with automated SMS follow-ups.
+
 🚘 Roadworthiness Verification System
 Implemented geofencing with GPS tracking to verify vehicle inspection presence before issuing certificates. Enhanced to verify Proof of Ownership, Vehicle License, and Insurance.
+
 🎰 Solana Coin Flip Game
 On-chain smart contract enabling players to create and join games using verifiable randomness, with Solana Wallet Adapter integration for seamless transactions.
 
