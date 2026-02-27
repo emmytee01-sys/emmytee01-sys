@@ -47,6 +47,8 @@ Levelling up DevOps and observability practices
 📫 Connect with Me
 
 🐙 GitHub: emmytee01-sys
-💼 LinkedIn: Emmanuel Oluwatosin
+
+💼 LinkedIn:[ Emmanuel Oluwatosin](https://www.linkedin.com/in/tosin-oke-b988b824a)
+
 📧 Email: tosinoke0@gmail.com
 📞 Phone: +234 816 592 9055
