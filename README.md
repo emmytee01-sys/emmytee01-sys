@@ -1,54 +1,47 @@
-# Hi there! I'm Emmanuel Oluwatosin 👋
+Hi there, I'm Emmanuel Oluwatosin 👋
+🚀 About Me
+I'm a Senior Software Engineer with 4+ years of experience building and scaling secure, high-volume fintech and banking systems. I specialize in backend development — from core banking infrastructure and payment pipelines to wallet systems and interbank integrations — but I love exploring across the stack, from mobile apps to blockchain and AI.
+I've worked on platforms serving 80,000+ active users, integrated with CBN-regulated NIBSS/N-CUBE APIs, and built systems that handle real money, real transactions, and real consequences every day.
 
-## 🚀 About Me
-I'm a **Software Engineer** passionate about building scalable and efficient systems. My expertise lies in **backend development**, but I also enjoy exploring the **frontend**, cloud computing, DevOps, and AI/ML. My goal is to lead an innovative IT software development company as a **CEO/Managing Director** in the future.
+🔧 Tech Stack & Tools
+Languages
+PHP · JavaScript · Dart · Python
+Backend Development
+Laravel · Node.js · Express.js · MySQL · PostgreSQL · Redis
+Frontend & Mobile
+Flutter · React · React Native · HTML · CSS
+Cloud & DevOps
+Docker · CI/CD Pipelines · Linux · Nginx · Firebase · AWS
+Fintech & Banking
+Core Banking Systems · Wallet & Ledger Architecture · NIBSS/N-CUBE · Idempotent Payment Pipelines · Loan & Savings Products · Transaction Reconciliation
+Emerging Tech
+Blockchain (Sui Move · Smart Contracts) · AI APIs · NLP · OpenAI
 
-## 🔧 Tech Stack & Tools
-### **Languages**
-- PHP | Dart | Python | JavaScript
+📌 Notable Projects
+💰 AJOO.me — Group Contributions & Fintech Platform
+A community-based contribution (ajo/esusu) platform with automated fund rotation, wallet management, and scheduled disbursements. Built with secure REST APIs, JWT auth, and role-based access control.
+👥 Workrate — Workforce Management Platform
+A role-based platform for managing projects, tasks, approvals, tickets, and team rewards. Features real-time notifications via Firebase and WhatsApp, with fine-grained access control and optimized data models.
+📣 WakeMe API — Multi-Channel Notifications Platform
+A production-grade notifications API enabling businesses to reach users across WhatsApp, Instagram DMs, Facebook Messenger, and Email — with API key lifecycle management, rate limiting, and delivery analytics.
+⛪ ChurchConnect — AI-Powered Church Management System
+A mobile + Telegram-integrated system for attendance tracking, Bible study, and prayer requests. Uses NLP to analyze prayer sentiment and deliver personalized devotional content with automated SMS follow-ups.
+🚘 Roadworthiness Verification System
+Implemented geofencing with GPS tracking to verify vehicle inspection presence before issuing certificates. Enhanced to verify Proof of Ownership, Vehicle License, and Insurance.
+🎰 Solana Coin Flip Game
+On-chain smart contract enabling players to create and join games using verifiable randomness, with Solana Wallet Adapter integration for seamless transactions.
 
-### **Backend Development**
-- Laravel | Node.js (Bun) | MySQL | PostgreSQL | Python
+🎯 Current Focus
 
-### **Frontend Development**
-- Flutter | JavaScript | React
+Building and scaling core banking infrastructure in regulated environments
+Exploring decentralized applications (DApps) and on-chain finance
+Deepening AI-driven solutions for real-world product problems
+Levelling up DevOps and observability practices
 
-### **Cloud & DevOps**
-- AWS | Docker | Kubernetes | CI/CD
 
-### **AI & ML**
-- TensorFlow | OpenAI | NLP | AI-powered chatbots
+📫 Connect with Me
 
-## 📌 Notable Projects
-### **🚘 Roadworthiness Verification System**
-- Implemented **geofencing with GPS tracking** to verify vehicle inspection presence before issuing certificates.
-- Enhanced the system to verify multiple vehicle details, including **Proof of Ownership, Vehicle License, and Insurance**.
-
-### **🏡 Lagos Housing Registration System**
-- Built a **web app** to register houses, landlords, and tenants, aiming to improve **address verification** and support a **smart city** initiative.
-
-### **🎰 Solana Coin Flip Game**
-- Developed an **on-chain smart contract** enabling players to create and join games using **verifiable randomness**.
-- Integrated **Solana Wallet Adapter** for seamless transactions.
-
-### **📖 AI-Powered Church Management System**
-- Created an AI-driven system for **church growth, engagement, and attendance tracking**.
-- Integrated **Telegram bots** for Bible study, devotional content, and AI-powered chat interactions.
-
-### **🛂 DigitalPersona Fingerprint Integration**
-- Integrated **fingerprint authentication** with a **MySQL database** for user registration and secure authentication.
-
-## 🎯 Current Focus
-- **Enhancing AI-driven solutions** for real-world applications.
-- **Scaling DevOps practices** for improved deployment and automation.
-- **Building decentralized applications (DApps)** on blockchain networks.
-
-## 📫 Connect with Me
-- **GitHub**: [emmytee01-sys](https://github.com/emmytee01-sys)
-- **LinkedIn**: [Emmanuel Oluwatsin](https://linkedin.com/in/emmanuel-oluwatosin)
-- 📫 How to reach me tosinoke0@gmail.com +2348165929055...
-
-<!---
-emmytee01-sys/emmytee01-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🐙 GitHub: emmytee01-sys
+💼 LinkedIn: Emmanuel Oluwatosin
+📧 Email: tosinoke0@gmail.com
+📞 Phone: +234 816 592 9055
